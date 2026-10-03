@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.output/
+.vercel/
+.tanstack/
+.grok/
+.node_modules.lock
+*.log

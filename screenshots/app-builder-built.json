@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/rules",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vozacka",
+      "hasCanvas": false,
+      "bodyTextLen": 5541,
+      "bodyTextHash": "608f1f5bd9dae32b0657f2ed618bfa720f326959e302aa390b439af1a3f46a73",
+      "bodyTextPrefix": "VOZACKA MK Drive Practice Numbers Mock exam MK NUMBERS Learn the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vozacka",
+      "hasCanvas": false,
+      "bodyTextLen": 5543,
+      "bodyTextHash": "3dbf39da486f428bd46d61542bf14171d455d79566d5a6aaeddf3b92a13687a0",
+      "bodyTextPrefix": "VOZACKA MK NUMBERS Learn the numbers Official answers from the t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "5977",
+    "image": "/signs/2d415c15-8545-422f-9d07-9cea049c2181.jpg",
+    "mk": "Задолжително запирање",
+    "en": "Mandatory stop",
+    "questionId": 1,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "5980",
+    "image": "/signs/9cd6d4cb-7b76-4722-a744-98efd1aa0498.jpg",
+    "mk": "Пат со еднонасочен сообраќај",
+    "en": "One-way road",
+    "questionId": 1,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "5982",
+    "image": "/signs/fe87992a-e30b-4f89-8161-765da026d3f8.jpg",
+    "mk": "Крстосување со пат со првенство на минување",
+    "en": "Intersection with a priority road",
+    "questionId": 1,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "5984",
+    "image": "/signs/2c21f745-e92e-444f-9066-720eae790bc4.jpg",
+    "mk": "Сообраќај во две насоки",
+    "en": "Two-way traffic",
+    "questionId": 1,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "5987",
+    "image": "/signs/c0d68590-c932-4bb4-9231-7cf86e83c603.jpg",
+    "mk": "Обележан пешачки премин",
+    "en": "Marked pedestrian crossing",
+    "questionId": 2,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "5990",
+    "image": "/signs/69ec83eb-1767-40cb-b505-fbbb64590cd6.jpg",
+    "mk": "Пат со првенство на минување",
+    "en": "Priority road",
+    "questionId": 2,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "5992",
+    "image": "/signs/7f1c5a4b-a6b8-4088-8d66-00905b9e5f6d.jpg",
+    "mk": "Работи на патот",
+    "en": "Roadworks",
+    "questionId": 2,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "5995",
+    "image": "/signs/6bc8c8cc-20b3-4d03-bd7c-d004c1c2ca03.jpg",
+    "mk": "Забрана за сообраќај во една насока",
+    "en": "No entry (one direction)",
+    "questionId": 2,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "5997",
+    "image": "/signs/c32a5d84-248e-46e9-8032-715adc51c81a.jpg",
+    "mk": "Крстосување на патишта  со иста важност",
+    "en": "Intersection of equal-priority roads",
+    "questionId": 3,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6000",
+    "image": "/signs/003ced9f-b69b-427e-9c97-ef57cf4ab2a4.jpg",
+    "mk": "Првенство на минување во однос на возилата од спротивна насока",
+    "en": "Priority over oncoming vehicles",
+    "questionId": 3,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6002",
+    "image": "/signs/2cd26c25-6764-4bf0-853a-eb77c0753abf.jpg",
+    "mk": "Задолжителна насока",
+    "en": "Mandatory direction",
+    "questionId": 3,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6005",
+    "image": "/signs/ff0f8f44-d7bc-4b18-a2ae-3a7dc6a8fb6e.jpg",
+    "mk": "Првенство на минување за возила од спротивна насока",
+    "en": "Give way to oncoming vehicles",
+    "questionId": 3,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6008",
+    "image": "/signs/b5deb8f2-0a01-41c4-a61e-d855dd4529b9.jpg",
+    "mk": "Забрана за престигнување на сите возила на моторен погон,освен на мотоцикли без приколка и мопеди",
+    "en": "No overtaking of motor vehicles except motorcycles without sidecar and mopeds",
+    "questionId": 4,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6010",
+    "image": "/signs/750deccb-b39a-48a9-899d-ac6a599c0303.jpg",
+    "mk": "Најмала дозволена брзина",
+    "en": "Minimum speed",
+    "questionId": 4,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6012",
+    "image": "/signs/45b4ec42-2bbf-42f0-a93d-619085ff680e.jpg",
+    "mk": "Деца на патот",
+    "en": "Children on the road",
+    "questionId": 4,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6015",
+    "image": "/signs/1bf3bfa1-13d5-4389-930b-067c014f3413.jpg",
+    "mk": "Подрачје на смирен сообраќај",
+    "en": "Traffic-calming zone",
+    "questionId": 4,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6017",
+    "image": "/signs/130f95ec-5095-4213-bc01-94c39cb7b83f.jpg",
+    "mk": "Вкрстосување со кружен тек на сообраќајот",
+    "en": "Intersection with a roundabout",
+    "questionId": 5,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6019",
+    "image": "/signs/b9089ae7-baec-4b28-a171-5ad5d97a4ec5.jpg",
+    "mk": "Забрана на сообраќајот за возила чија вкупна широчина ја преминува определената широчина",
+    "en": "No vehicles over the indicated width",
+    "questionId": 5,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6022",
+    "image": "/signs/3db44a0a-8c53-4d0f-8577-c4de0ef2f9f6.jpg",
+    "mk": "Проширување за принудно запирање на возила",
+    "en": "Emergency stopping bay",
+    "questionId": 5,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6025",
+    "image": "/signs/82d6018c-37f0-4042-b86a-1b5c383e675c.jpg",
+    "mk": "Кружен тек на сообраќајот",
+    "en": "Roundabout",
+    "questionId": 5,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6029",
+    "image": "/signs/71ef6cad-755a-40b5-9388-c834f8fa5ce2.jpg",
+    "mk": "Премин на патот преку железничка пруга без браници или полубраници",
+    "en": "Level crossing without barriers or half-barriers",
+    "questionId": 6,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6031",
+    "image": "/signs/8193aeea-d7a8-4d8e-950b-89d12ecbed0c.jpg",
+    "mk": "Автопат",
+    "en": "Motorway",
+    "questionId": 6,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6033",
+    "image": "/signs/24f1a838-6c1b-431c-a453-762416ec0da2.jpg",
+    "mk": "Патека за пешаци",
+    "en": "Footpath",
+    "questionId": 6,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6035",
+    "image": "/signs/a626a26a-77f6-4bd4-ad32-debd3e796409.jpg",
+    "mk": "Забрана за запирање и паркирање",
+    "en": "No stopping or parking",
+    "questionId": 6,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6037",
+    "image": "/signs/dc87c214-e5f6-4c25-a664-01928266e482.jpg",
+    "mk": "Зимска опрема –синџири за снег",
+    "en": "Winter equipment — snow chains",
+    "questionId": 7,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6041",
+    "image": "/signs/45697fb3-31fd-4c21-81db-78e492c8fbf0.jpg",
+    "mk": "Слеп пат",
+    "en": "Dead end",
+    "questionId": 7,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6043",
+    "image": "/signs/6cc8ddc9-b521-40a9-b184-434370bf9cac.jpg",
+    "mk": "Забрана за свртување надесно",
+    "en": "No right turn",
+    "questionId": 7,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6045",
+    "image": "/signs/cd107410-26b5-4281-967e-a57fd1af4d1b.jpg",
+    "mk": "Андреин крст",
+    "en": "St. Andrew's cross",
+    "questionId": 7,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6048",
+    "image": "/signs/bfa59c79-aa30-4c03-bad6-46876979f17b.jpg",
+    "mk": "Спојување со спореден пат под прав агол од десна страна",
+    "en": "Side road joining at a right angle from the right",
+    "questionId": 8,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6050",
+    "image": "/signs/b6d122b4-b004-4470-bd11-3fe13766ca2c.jpg",
+    "mk": "Задолжително обиколување од десната страна",
+    "en": "Keep right (pass on the right)",
+    "questionId": 8,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6052",
+    "image": "/signs/587ee2bc-54c1-4f97-a938-7fd1985d6398.jpg",
+    "mk": "Деца на патот",
+    "en": "Children on the road",
+    "questionId": 8,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6055",
+    "image": "/signs/6ffb3d26-acb1-4013-b00c-9ebe481b9d34.jpg",
+    "mk": "Забрана за паркирање",
+    "en": "No parking",
+    "questionId": 8,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6057",
+    "image": "/signs/9c290518-2984-41e7-b1a7-145ce90d61e4.jpg",
+    "mk": "Станица за прва помош",
+    "en": "First-aid station",
+    "questionId": 9,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6060",
+    "image": "/signs/3dbf8190-ef14-4007-8437-8114774d4144.jpg",
+    "mk": "Забрана на сообраќајот за сите возила на моторен погон",
+    "en": "No motor vehicles",
+    "questionId": 9,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6062",
+    "image": "/signs/667b83d4-ecaf-45db-a1ea-2c800fe04391.jpg",
+    "mk": "Опасност од мраз",
+    "en": "Danger of ice",
+    "questionId": 9,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6064",
+    "image": "/signs/194f684a-b163-4bb3-8b08-b02bbf71dda4.jpg",
+    "mk": "Задолжителна насока",
+    "en": "Mandatory direction",
+    "questionId": 9,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6067",
+    "image": "/signs/e5c1935f-091a-42d0-b90f-15367c5c7f92.jpg",
+    "mk": "Ограничување на брзината",
+    "en": "Speed limit",
+    "questionId": 10,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6069",
+    "image": "/signs/bf3d49c7-bd84-4e93-adff-936f9cd1d5a8.jpg",
+    "mk": "Одвоена патека за велосипедисти и пешаци",
+    "en": "Separated track for cyclists and pedestrians",
+    "questionId": 10,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6071",
+    "image": "/signs/de7e0819-2d8a-4d61-b358-d2e3c742187a.jpg",
+    "mk": "Завршување на патот со првенство на минување",
+    "en": "End of priority road",
+    "questionId": 10,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6074",
+    "image": "/signs/837f93ab-50f9-4970-b3dc-87dbdb748652.jpg",
+    "mk": "Нерамен коловоз-издаденост на патот",
+    "en": "Uneven road — hump",
+    "questionId": 10,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6077",
+    "image": "/signs/88281ff0-8947-411c-8d03-af8a4eff2175.jpg",
+    "mk": "Сообраќајна лента за возила на јавен превоз на патници",
+    "en": "Lane for public passenger vehicles",
+    "questionId": 11,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6080",
+    "image": "/signs/440f6539-7d27-48ce-8731-82c2ad9cb73a.jpg",
+    "mk": "Забрана за давање звучни знаци",
+    "en": "No sounding of horn",
+    "questionId": 11,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6082",
+    "image": "/signs/6063fafa-bb88-412c-a8f0-19e26394d9cf.jpg",
+    "mk": "Дозволени насоки",
+    "en": "Permitted directions",
+    "questionId": 11,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6085",
+    "image": "/signs/ddd893a5-0dd9-4edf-aaea-6a7c0ca9d532.jpg",
+    "mk": "Сообраќај во две насоки",
+    "en": "Two-way traffic",
+    "questionId": 11,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6087",
+    "image": "/signs/01927653-365e-48a6-a04f-886aa01af425.jpg",
+    "mk": "Пат резервиран за сообраќај на моторни возила",
+    "en": "Road reserved for motor vehicles",
+    "questionId": 12,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6090",
+    "image": "/signs/86380689-f27e-4b9f-9daf-d870976aba63.jpg",
+    "mk": "Забрана на сообраќајот за возила што превезуваат експлозив или некои запалливи материи",
+    "en": "No vehicles carrying explosives or flammable materials",
+    "questionId": 12,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6093",
+    "image": "/signs/82ada75c-eaf5-4e62-a425-fac4c0bc84b9.jpg",
+    "mk": "Тунел(галерија)",
+    "en": "Tunnel (gallery)",
+    "questionId": 12,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6095",
+    "image": "/signs/9951cdc9-f076-42af-8e98-009e84d4a410.jpg",
+    "mk": "Задолжителна насока",
+    "en": "Mandatory direction",
+    "questionId": 12,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6098",
+    "image": "/signs/e48c874e-5319-4c38-b4f1-b137678614f9.jpg",
+    "mk": "Приближување кон премин на патот преку железничка пруга со браници или полубраници",
+    "en": "Approaching a level crossing with barriers or half-barriers",
+    "questionId": 13,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6100",
+    "image": "/signs/e16932d2-07f3-4ff8-91ed-4898136155ba.jpg",
+    "mk": "Најмало растојание мeѓу возилата",
+    "en": "Minimum distance between vehicles",
+    "questionId": 13,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6102",
+    "image": "/signs/dc468638-9f86-4ab9-b4b4-cfa05fd03018.jpg",
+    "mk": "Затворање на сообраќајната лента",
+    "en": "Lane closed",
+    "questionId": 13,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6105",
+    "image": "/signs/fa2d2b23-116a-4e25-af67-a7f8042e71ad.jpg",
+    "mk": "Дозволено обиколување",
+    "en": "Passing permitted",
+    "questionId": 13,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6108",
+    "image": "/signs/134ec546-44d7-4dae-8d19-090eb9cfc033.jpg",
+    "mk": "Патека за велосипедисти и пешаци",
+    "en": "Shared path for cyclists and pedestrians",
+    "questionId": 14,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6110",
+    "image": "/signs/4129e9bd-c48c-444d-9a49-d1a74633f83d.jpg",
+    "mk": "Патен објект",
+    "en": "Road structure",
+    "questionId": 14,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6112",
+    "image": "/signs/30c7d76a-16b8-43ff-81d4-3220d78541c3.jpg",
+    "mk": "Двојна кривина или повеќе кривини едноподруго од кои првата е надесно",
+    "en": "Double bend or successive bends, first to the right",
+    "questionId": 14,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6115",
+    "image": "/signs/ea6ca300-e9f1-47c4-a7d7-c62f5a2fd6e6.jpg",
+    "mk": "Забрана на сообраќајот за пешаци",
+    "en": "No pedestrians",
+    "questionId": 14,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6117",
+    "image": "/signs/b70684b9-a4cf-41d3-8594-46781beeab10.jpg",
+    "mk": "Забрана за престигнување за товарни моторни возила",
+    "en": "No overtaking for goods vehicles",
+    "questionId": 15,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6119",
+    "image": "/signs/f6e114df-7a12-4c89-8b2f-60dc3711f784.jpg",
+    "mk": "Кружен тек на сообраќајот",
+    "en": "Roundabout",
+    "questionId": 15,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6121",
+    "image": "/signs/92ffe41e-752c-434e-9834-e9e63efb3e38.jpg",
+    "mk": "Лизгав коловоз",
+    "en": "Slippery road",
+    "questionId": 15,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6125",
+    "image": "/signs/75272865-5bf4-43dd-86d7-1957b3b01e7c.jpg",
+    "mk": "Патоказ",
+    "en": "Direction sign",
+    "questionId": 15,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6127",
+    "image": "/signs/6e3c2f9e-8ad2-4fcb-ad00-6304e859489b.jpg",
+    "mk": "Забрана на сообраќајот за возила чија вкупна висина ја преминува определената висина",
+    "en": "No vehicles over the indicated height",
+    "questionId": 16,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6130",
+    "image": "/signs/4626c534-a947-4e48-a2d0-22dff1e97cec.jpg",
+    "mk": "Патека за пешаци",
+    "en": "Footpath",
+    "questionId": 16,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6133",
+    "image": "/signs/cc67f3ad-5efb-419b-a9ea-785989d29983.jpg",
+    "mk": "Стеснување на патот од лева страна",
+    "en": "Road narrows on the left",
+    "questionId": 16,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6135",
+    "image": "/signs/ca1a2f74-5707-4b03-a48e-dd29404e930d.jpg",
+    "mk": "Престројување на возила",
+    "en": "Lane assignment for vehicles",
+    "questionId": 16,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6138",
+    "image": "/signs/72f049a2-33ac-4cfb-855f-b8fc00405f8c.jpg",
+    "mk": "Дивеч на патот",
+    "en": "Wild animals on the road",
+    "questionId": 17,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6140",
+    "image": "/signs/caf3f3cf-0a36-4b1f-bbf2-a7e09226ffb1.jpg",
+    "mk": "Предзнак за обиколување",
+    "en": "Advance direction for a diversion",
+    "questionId": 17,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6142",
+    "image": "/signs/b9a6969e-ceb8-4e7b-9977-f3a73e433abf.jpg",
+    "mk": "Патека за коњаници",
+    "en": "Bridleway",
+    "questionId": 17,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6144",
+    "image": "/signs/47c0099c-d47a-4866-9783-4d2f8755da6a.jpg",
+    "mk": "Забрана за минување без запирање –царина",
+    "en": "Stop — customs",
+    "questionId": 17,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6147",
+    "image": "/signs/ec26c78c-fcee-4ef3-9d27-b969ea9d13e5.jpg",
+    "mk": "Најмала дозволена брзина",
+    "en": "Minimum speed",
+    "questionId": 18,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6149",
+    "image": "/signs/05419b3f-2341-42bf-a866-4efca11daafd.jpg",
+    "mk": "Брзина што се препорачува",
+    "en": "Recommended speed",
+    "questionId": 18,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6151",
+    "image": "/signs/bc968e7b-3384-4e7a-b70d-ae20ac5e3b7b.jpg",
+    "mk": "Нерамен коловоз- вдлабнатини на патот",
+    "en": "Uneven road — dips",
+    "questionId": 18,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6154",
+    "image": "/signs/00cfd670-4e6e-4753-9746-80695d742f30.jpg",
+    "mk": "Забрана на сообраќајот за возила чија вкупна маса ја преминува определената маса",
+    "en": "No vehicles over the indicated mass",
+    "questionId": 18,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6158",
+    "image": "/signs/8501e27c-e69f-45c9-a724-8fcf7de50a01.jpg",
+    "mk": "Зона во која е ограничена брзината",
+    "en": "Speed-limit zone",
+    "questionId": 19,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6160",
+    "image": "/signs/234ccf9f-7828-4661-b13c-cbe20dc6dc6b.jpg",
+    "mk": "Спојување со спореден пат под прав агол од десна страна",
+    "en": "Side road joining at a right angle from the right",
+    "questionId": 19,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6162",
+    "image": "/signs/2255655a-64f6-4376-9cf0-106c8d9abe05.jpg",
+    "mk": "Забрана на сообраќај за сите возила на моторен погон што влечат приклучно возило",
+    "en": "No motor vehicles towing a trailer",
+    "questionId": 19,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6165",
+    "image": "/signs/403529fb-6521-4d2e-96a9-20eb9e5ac61d.jpg",
+    "mk": "Дозволени насоки",
+    "en": "Permitted directions",
+    "questionId": 19,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6167",
+    "image": "/signs/8592d628-855f-42e1-853e-e7ab67663559.jpg",
+    "mk": "Задолжителна насока",
+    "en": "Mandatory direction",
+    "questionId": 20,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6171",
+    "image": "/signs/3bd846fa-5883-476c-ab2c-fa0f812039f9.jpg",
+    "mk": "Забрана на сообраќајот за возила што превезуваат опасни материи",
+    "en": "No vehicles carrying dangerous goods",
+    "questionId": 20,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6173",
+    "image": "/signs/daf2d00e-fc59-4734-b1d9-da7fe3ffc50f.jpg",
+    "mk": "Пешаци на патот",
+    "en": "Pedestrians on the road",
+    "questionId": 20,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6175",
+    "image": "/signs/86f30958-1538-43af-a4b0-e2bdfbaaee44.jpg",
+    "mk": "Стојалиште за автобус",
+    "en": "Bus stop",
+    "questionId": 20,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6179",
+    "image": "/signs/11c19130-e914-41e4-91f2-bc3f82929c0a.jpg",
+    "mk": "Нерамен коловоз - издадености на патот",
+    "en": "Uneven road — humps",
+    "questionId": 21,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6181",
+    "image": "/signs/460e237a-637b-4609-bc05-503bead53590.jpg",
+    "mk": "Забрана за паркирање",
+    "en": "No parking",
+    "questionId": 21,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6183",
+    "image": "/signs/2bcb9710-0d1a-453b-afc6-d63aac76f318.jpg",
+    "mk": "Кружен тек на сообраќајот",
+    "en": "Roundabout",
+    "questionId": 21,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6185",
+    "image": "/signs/5fa7241f-4629-464d-9074-784c0faff6cb.jpg",
+    "mk": "Станица за прва помош",
+    "en": "First-aid station",
+    "questionId": 21,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6187",
+    "image": "/signs/0c8a7f85-5e34-4509-af00-3efd9766eb48.jpg",
+    "mk": "Задолжителна насока",
+    "en": "Mandatory direction",
+    "questionId": 22,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6189",
+    "image": "/signs/bcc73a32-a55d-4ba2-8163-4751751e5ce1.jpg",
+    "mk": "Пат со првенство на минување",
+    "en": "Priority road",
+    "questionId": 22,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6192",
+    "image": "/signs/a0bdd347-6381-4cae-9f48-b68e236668c9.jpg",
+    "mk": "Работи на патот",
+    "en": "Roadworks",
+    "questionId": 22,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6195",
+    "image": "/signs/6234607e-d767-42bb-83d6-fc695eff4dc9.jpg",
+    "mk": "Задолжително запирање",
+    "en": "Mandatory stop",
+    "questionId": 22,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6198",
+    "image": "/signs/dfb61086-207e-41b4-9a05-dc083336e654.jpg",
+    "mk": "Патека за пешаци",
+    "en": "Footpath",
+    "questionId": 23,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6201",
+    "image": "/signs/e0242bee-84b7-4944-b95d-9932a3242151.jpg",
+    "mk": "Забрана на сообраќајот за возила чија вкупна широчина ја преминува определената широчина",
+    "en": "No vehicles over the indicated width",
+    "questionId": 23,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6203",
+    "image": "/signs/6e69faf9-4490-43d0-8890-7f9ec41b90fc.jpg",
+    "mk": "Деца на патот",
+    "en": "Children on the road",
+    "questionId": 23,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6205",
+    "image": "/signs/3a4e48e3-b0f3-46c5-b844-4b579e5b062c.jpg",
+    "mk": "Обележан пешачки премин",
+    "en": "Marked pedestrian crossing",
+    "questionId": 23,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6208",
+    "image": "/signs/852bddc5-e64b-4ccb-bd33-2062bfbd2971.jpg",
+    "mk": "Спојување со спореден пат под прав агол од лева страна",
+    "en": "Side road joining at a right angle from the left",
+    "questionId": 24,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6210",
+    "image": "/signs/ed959a98-38bb-4c8b-aab0-85f3d86ee75b.jpg",
+    "mk": "Задолжително обиколување од левата страна",
+    "en": "Keep left (pass on the left)",
+    "questionId": 24,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6212",
+    "image": "/signs/f78cc36e-efd1-436d-8272-8362ed2f2d4e.jpg",
+    "mk": "Подрачје на смирен сообраќај",
+    "en": "Traffic-calming zone",
+    "questionId": 24,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6215",
+    "image": "/signs/3e99323b-630c-49a1-8716-76f325bd5645.jpg",
+    "mk": "Забрана за свртување налево",
+    "en": "No left turn",
+    "questionId": 24,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6217",
+    "image": "/signs/2ebc1a27-52dd-4f6c-9fc8-8fa60e82adf8.jpg",
+    "mk": "Задолжителна насока",
+    "en": "Mandatory direction",
+    "questionId": 25,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6220",
+    "image": "/signs/f186ef14-28e7-4bde-8794-8ac8552e8ce0.jpg",
+    "mk": "Крстосување на патишта  со иста важност",
+    "en": "Intersection of equal-priority roads",
+    "questionId": 25,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6222",
+    "image": "/signs/03055c9d-ae91-4f9f-a01d-dbdd7be6d166.jpg",
+    "mk": "Забрана за сообраќај во една насока",
+    "en": "No entry (one direction)",
+    "questionId": 25,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "6224",
+    "image": "/signs/2a6cfb15-d2fe-49a4-a510-18f1bc3d146f.jpg",
+    "mk": "Првенство на минување во однос на возилата од спротивна насока",
+    "en": "Priority over oncoming vehicles",
+    "questionId": 25,
+    "categories": "А,A1,Б"
+  },
+  {
+    "id": "4132",
+    "image": "/signs/e940e4f6-5d35-40bf-834e-90c0f970521b.jpg",
+    "mk": "опасност на патот",
+    "en": "Danger on the road",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4134",
+    "image": "/signs/199c9026-c5ba-48d1-b2c8-78a9caf954c3.jpg",
+    "mk": "забрана за сообраќај во една насока",
+    "en": "No entry (one direction)",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4136",
+    "image": "/signs/d1f6433d-e605-4e3b-bf32-374983fe1883.jpg",
+    "mk": "станица за прва помош",
+    "en": "First-aid station",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4138",
+    "image": "/signs/5b914166-1b46-47c3-a5e3-6bc39dd6e393.jpg",
+    "mk": "обележан пешачки премин",
+    "en": "Marked pedestrian crossing",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4140",
+    "image": "/signs/eb3a4f11-cfd7-4853-b275-d81278327857.jpg",
+    "mk": "болница",
+    "en": "Hospital",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4142",
+    "image": "/signs/97262fbc-0658-4f40-982a-68005436352e.jpg",
+    "mk": "дополнителната табла означува положба на патот со право на првенство",
+    "en": "The additional plate shows the layout of the priority road",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4144",
+    "image": "/signs/3c00389a-7560-4774-b827-1c608b530a62.jpg",
+    "mk": "забрана на сообраќајот за возила на моторен погон што влечат приклучно возило, освен полуприколка",
+    "en": "No motor vehicles towing a trailer, except semi-trailers",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4146",
+    "image": "/signs/a78c4cfc-635e-4ac8-b4a1-25801d8052b4.jpg",
+    "mk": "обиколна насока за одредени видови возила",
+    "en": "Diversion for certain types of vehicles",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4148",
+    "image": "/signs/d46e34f8-ca68-4e78-a925-6c8c3a96c9a6.jpg",
+    "mk": "жолта стрелка со врвот свртена кон десната или левата страна",
+    "en": "Yellow arrow pointing left or right",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4150",
+    "image": "/signs/2790b21d-fda0-48f0-a62c-d67aee223d5f.jpg",
+    "mk": "одронување на камења од лева страна",
+    "en": "Falling rocks from the left",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4152",
+    "image": "/signs/0a584a23-6577-469d-bb3f-c3a852d5d928.jpg",
+    "mk": "ознака за јазли на автопатишта",
+    "en": "Motorway junction marker",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4154",
+    "image": "/signs/d3ac515d-caa0-497a-ab12-3961564b1443.jpg",
+    "mk": "завршување на патот со првенство на минување",
+    "en": "End of priority road",
+    "questionId": 76,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4210",
+    "image": "/signs/068c00fe-6e41-4f8f-b437-e80d5244c3fb.jpg",
+    "mk": "нерамен коловоз",
+    "en": "Uneven road",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4212",
+    "image": "/signs/b1777062-073c-414b-a024-004c58596e04.jpg",
+    "mk": "забрана на сообраќајот за мопеди",
+    "en": "No mopeds",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4214",
+    "image": "/signs/0dc0e171-d828-493b-9a8c-9843b97c1fd5.jpg",
+    "mk": "престанување на сите забрани",
+    "en": "End of all prohibitions",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4216",
+    "image": "/signs/0ded00f1-d61d-4369-b035-8475dcbe6390.jpg",
+    "mk": "стеснување на патот од десна страна",
+    "en": "Road narrows on the right",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4218",
+    "image": "/signs/4e3ed317-e7c7-400d-8d7c-cac7ec39984b.jpg",
+    "mk": "завршеток на патека за велосипедисти и пешаци",
+    "en": "End of cycle and pedestrian path",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4220",
+    "image": "/signs/200c4712-70e2-4c5b-8377-a72aeee8a3ed.jpg",
+    "mk": "дополнителната табла означува оддалеченост меѓу знакот кон кој е поставена дополнителната табла и објектот, теренот или делот од патот на кој се однесува известувањето",
+    "en": "The additional plate shows the distance between the sign and the place, area or stretch the information refers to",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4222",
+    "image": "/signs/0322f8af-d081-4aff-a6cf-de76caa362c9.jpg",
+    "mk": "забрана на сообраќајот за цистерни",
+    "en": "No tankers",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4224",
+    "image": "/signs/c5154755-dd84-44f8-b02c-3f9cdb9a4653.jpg",
+    "mk": "затворање на сообраќајната лента",
+    "en": "Lane closed",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4226",
+    "image": "/signs/a5beeca0-163b-49d6-ac3d-f22fcbeb7e4f.jpg",
+    "mk": "дополнителна светлечка стрелка",
+    "en": "Additional illuminated arrow",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4228",
+    "image": "/signs/062f9813-19cf-483c-9554-df937b4a256b.jpg",
+    "mk": "наидување на сообраќајни светлосни знаци",
+    "en": "Approaching traffic lights",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4230",
+    "image": "/signs/6ead9b8b-0a19-42e4-896e-5ef4542240c3.jpg",
+    "mk": "забрана за влегување на одредени видови возила на автопат или на пат резервиран за сообраќај на моторни возила",
+    "en": "Certain types of vehicles are banned from the motorway or a road reserved for motor vehicles",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4232",
+    "image": "/signs/940b87b3-0e37-4206-8425-4f71a0a82353.jpg",
+    "mk": "пат со еднонасочен сообраќај",
+    "en": "One-way road",
+    "questionId": 77,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4184",
+    "image": "/signs/56d09849-f823-4ee2-9a47-a6b39761554d.jpg",
+    "mk": "густ сообраќај",
+    "en": "Congestion",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4186",
+    "image": "/signs/4206533d-a5b3-4224-a5b6-64c09f56cf45.jpg",
+    "mk": "забрана на сообраќајот за запрежни возила",
+    "en": "No animal-drawn vehicles",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4188",
+    "image": "/signs/15a14713-da24-4c08-80f9-5c50a31a24e5.jpg",
+    "mk": "зона во која е ограничена брзината",
+    "en": "Speed-limit zone",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4190",
+    "image": "/signs/052bec2e-632a-4862-a06e-b9d25d6f22f2.jpg",
+    "mk": "бочен ветер од лева страна",
+    "en": "Crosswind from the left",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4192",
+    "image": "/signs/5685dad1-899b-4595-9ee8-9a88393e2b09.jpg",
+    "mk": "престанување за најмала дозволена брзина",
+    "en": "End of minimum-speed restriction",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4194",
+    "image": "/signs/6466ec04-7053-423e-bc26-3b71761a79b6.jpg",
+    "mk": "дополнителна табла означува делница на патот која може да биде поплавена во специфични атмосферски околности",
+    "en": "The additional plate marks a stretch that may flood in certain weather",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4196",
+    "image": "/signs/bb851f24-a967-4c77-82b6-6f9c3b950f23.jpg",
+    "mk": "забрана на сообраќајот за сите возила на моторен погон што влечат приклучно возило",
+    "en": "No motor vehicles towing a trailer",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4198",
+    "image": "/signs/e3922126-8004-4a5d-be34-da532c177526.jpg",
+    "mk": "предзнак за затворање на сообраќајната лента",
+    "en": "Advance warning of a lane closure",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4200",
+    "image": "/signs/0c4ac322-bc4f-4aac-a62f-966b12aa37d3.jpg",
+    "mk": "зелено светло",
+    "en": "Green light",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4202",
+    "image": "/signs/cf8f40fc-2521-4d1a-a82c-1ff278a3600c.jpg",
+    "mk": "близина на брег",
+    "en": "Nearby river bank / quayside",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4204",
+    "image": "/signs/5df16f9f-ffbf-4b31-baf4-b7348285fd69.jpg",
+    "mk": "патоказ на портал над една сообраќајна лента",
+    "en": "Overhead direction sign above one lane",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4206",
+    "image": "/signs/5dd86b4f-687d-4b8e-83ed-39aab19b0268.jpg",
+    "mk": "првенство на минување во однос на возилата од спротивна насока",
+    "en": "Priority over oncoming vehicles",
+    "questionId": 78,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4366",
+    "image": "/signs/4af0e6b0-8a9b-44ea-bfda-3e12c689ec35.jpg",
+    "mk": "бочен ветер од десна страна",
+    "en": "Crosswind from the right",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4368",
+    "image": "/signs/eb46e2eb-9bf7-4e0e-81ad-0e8cde8947a9.jpg",
+    "mk": "забрана на сообраќајот за сите возила на моторен погон и запрежни возила",
+    "en": "No motor vehicles or animal-drawn vehicles",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4370",
+    "image": "/signs/1ffc187d-e8be-4253-9e2f-9e328dadf62c.jpg",
+    "mk": "престанување на ограничување на брзината",
+    "en": "End of speed limit",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4372",
+    "image": "/signs/a763d21b-7fc2-426e-9e9a-55bf1e670406.jpg",
+    "mk": "камења прскаат",
+    "en": "Loose chippings",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4374",
+    "image": "/signs/24ab0dea-9008-429a-95f8-23fad8cd922f.jpg",
+    "mk": "дозволено обиколување",
+    "en": "Passing permitted",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4376",
+    "image": "/signs/142f58cd-a5d5-4ac8-8218-1d02fad41947.jpg",
+    "mk": "дополнителната табла содржи симболи кои поблиску го одредуваат значењето на знакот кон кој се поставуваат",
+    "en": "The additional plate has symbols that specify the meaning of the sign it is attached to",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4378",
+    "image": "/signs/bebaacc5-05dc-4977-b1e0-0ec4221db0d9.jpg",
+    "mk": "забрана на сообраќајот за товарни моторни возила",
+    "en": "No goods vehicles",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4380",
+    "image": "/signs/6f5815fe-000d-4e26-9737-72fd85593076.jpg",
+    "mk": "ограничување на најголема дозволена брзина на патиштата во Република Македонија",
+    "en": "General maximum speed limits on roads in the Republic of Macedonia",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4382",
+    "image": "/signs/b1f9d8e4-7e66-4649-beb7-33250d919e25.jpg",
+    "mk": "светлосен сообраќаен знак за означување премин на патот преку железничка пруга",
+    "en": "Light signal marking a railway level crossing",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4384",
+    "image": "/signs/084d1395-c3cf-445b-acfd-e1117ad9d7f6.jpg",
+    "mk": "двојна кривина или повеќе кривини едноподруго од кои првата е налево",
+    "en": "Double bend or successive bends, first to the left",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4386",
+    "image": "/signs/81f23584-0eb1-4ca7-bf72-be5865c58c00.jpg",
+    "mk": "ознака на делница од регионален пат",
+    "en": "Regional-road section marker",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4388",
+    "image": "/signs/d99ba24d-6f8b-4f85-907e-9ddc406e828e.jpg",
+    "mk": "кафетерија",
+    "en": "Cafeteria",
+    "questionId": 79,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4392",
+    "image": "/signs/dd23a4ad-6d38-4616-9564-79dc15d78d45.jpg",
+    "mk": "превртување или излизгување на возила",
+    "en": "Vehicles overturning or skidding",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4394",
+    "image": "/signs/4ce5077e-03c2-4b62-ab14-5054f55b99fd.jpg",
+    "mk": "наизменично паркирање (парни денови)",
+    "en": "Alternate parking (even days)",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4396",
+    "image": "/signs/5c161186-b267-43a6-a580-714dbdb41657.jpg",
+    "mk": "зона во која е ограничено времетраењето на паркирање",
+    "en": "Time-limited parking zone",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4398",
+    "image": "/signs/b48c3ed7-914b-45c2-92d2-0ef2ea64a2f6.jpg",
+    "mk": "премин на патот преку железничка пруга без браници или полубраници",
+    "en": "Level crossing without barriers or half-barriers",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4400",
+    "image": "/signs/d7fdd74a-d083-493d-ade7-725a336f8cfe.jpg",
+    "mk": "пат резервиран за сообраќај на моторни возила",
+    "en": "Road reserved for motor vehicles",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4402",
+    "image": "/signs/061eea77-f903-4869-ade7-c04c02e50623.jpg",
+    "mk": "дополнителна табла означува делница на патот која може да биде поплавена во специфични атмосферски околности.",
+    "en": "The additional plate marks a stretch that may flood in certain weather",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4404",
+    "image": "/signs/0d18f4bf-4e33-47b0-8edb-9c4fb545c332.jpg",
+    "mk": "забрана на сообраќајот за возила што го пречекоруваат определеното оскино оптоварување",
+    "en": "No vehicles exceeding the indicated axle load",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4406",
+    "image": "/signs/5a9c3a16-67ab-4e7a-8c46-96638eb36911.jpg",
+    "mk": "завршување на сообраќајна лента за возила на јавен превоз на патници",
+    "en": "End of lane for public passenger vehicles",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4408",
+    "image": "/signs/d9a202ed-aec4-4b0d-a927-b24dc0ddb602.jpg",
+    "mk": "црвено и зелено светло за пешаци и пешаци и велосипедисти",
+    "en": "Red and green lights for pedestrians, and for pedestrians and cyclists",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4410",
+    "image": "/signs/a2bd9b41-65f6-4e31-9b50-24ebf6c6a569.jpg",
+    "mk": "лизгав коловоз",
+    "en": "Slippery road",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4412",
+    "image": "/signs/0a3ffb59-892c-4417-862b-cba1d2022c2d.jpg",
+    "mk": "сообраќајна лента наменета за одреден вид возила",
+    "en": "Lane reserved for a certain type of vehicle",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4414",
+    "image": "/signs/11cac177-bae6-4242-a38c-25fc200b264e.jpg",
+    "mk": "издаденост на патот",
+    "en": "Hump in the road",
+    "questionId": 80,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4418",
+    "image": "/signs/918ebb98-720d-4e17-a097-850ac26fa54b.jpg",
+    "mk": "приближување кон премин на пат преку железничка пруга без браници или полубраници",
+    "en": "Approaching a level crossing without barriers or half-barriers",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4420",
+    "image": "/signs/a1c42c71-d508-4f8c-85ff-2bb6cd3243b9.jpg",
+    "mk": "дозволени насоки",
+    "en": "Permitted directions",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4422",
+    "image": "/signs/33985e6b-e9fa-41d4-a451-576d3e77aac2.jpg",
+    "mk": "обележан пешачки премин",
+    "en": "Marked pedestrian crossing",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4424",
+    "image": "/signs/a0697965-c6d8-40a1-9f6d-a917685f667a.jpg",
+    "mk": "опасна надолнина",
+    "en": "Steep descent",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4426",
+    "image": "/signs/47636204-ed49-4483-9191-0d40fc9d7afb.jpg",
+    "mk": "автопат",
+    "en": "Motorway",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4428",
+    "image": "/signs/6dccc030-55c4-44d5-80bf-c55373c5e68c.jpg",
+    "mk": "дополнителната табла означува положба при паркирање на возила",
+    "en": "The additional plate shows how vehicles should be parked",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4430",
+    "image": "/signs/f6cb5e3a-ed35-4348-99d9-2cc88ff0e6a8.jpg",
+    "mk": "крстосување со пат со првенство на минување",
+    "en": "Intersection with a priority road",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4432",
+    "image": "/signs/e8e3e488-46b8-4d79-bd93-2f3cee03c9b5.jpg",
+    "mk": "предзнак за пренасочување на сообраќајот на пат со одвоени коловозни ленти",
+    "en": "Advance warning of diversion onto a dual carriageway",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4434",
+    "image": "/signs/0fd85be4-bdb3-4ecf-a00d-2dd2377593a9.jpg",
+    "mk": "ознаки на коловозот",
+    "en": "Carriageway markings",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4436",
+    "image": "/signs/e57adf81-4e2b-4f23-89a0-09fe95eaf1d0.jpg",
+    "mk": "опасна нагорнина",
+    "en": "Steep ascent",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4438",
+    "image": "/signs/50f457ad-6d90-4b33-b419-b1fab554bda0.jpg",
+    "mk": "завршување на сообраќајна лента за возила на јавен превоз на патници",
+    "en": "End of lane for public passenger vehicles",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4440",
+    "image": "/signs/b9619dfe-621a-4a99-9e4c-39304df6e639.jpg",
+    "mk": "пат со еднонасочен сообраќај",
+    "en": "One-way road",
+    "questionId": 81,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4444",
+    "image": "/signs/6666ee8c-ca4b-49f6-9440-7dd0ea5aa503.jpg",
+    "mk": "крстосување на патишта со иста важност",
+    "en": "Intersection of equal-priority roads",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4446",
+    "image": "/signs/afde5ae9-32d6-4d9c-9513-e24b45c8355a.jpg",
+    "mk": "забрана за свртување налево",
+    "en": "No left turn",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4448",
+    "image": "/signs/84989dc0-cd51-473d-94ce-63be24c09661.jpg",
+    "mk": "обележан премин за велосипедска патека",
+    "en": "Marked cycle-track crossing",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4450",
+    "image": "/signs/a0241eae-675f-48d7-aa43-490e32a7d885.jpg",
+    "mk": "крстосување со спореден пат под прав агол",
+    "en": "Junction with a side road at a right angle",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4452",
+    "image": "/signs/b13b812b-73ea-4a3d-b4a8-62a3879a4bfe.jpg",
+    "mk": "престанување на забраната за давање звучни знаци",
+    "en": "End of no-horn restriction",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4454",
+    "image": "/signs/60407f60-5a71-49a2-9bc0-5a4a765962b6.jpg",
+    "mk": "дополнителната табла означува отстранување на возилата со специјални возила наменети за отстранување на непрописно паркираните возила како и запуштените возила на местата на кои паркирањето или запирањето на возила е забрането со сообраќаен знак",
+    "en": "The additional plate means vehicles parked where stopping/parking is banned will be towed, including abandoned vehicles",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4456",
+    "image": "/signs/d6e363fd-ce7d-454a-b758-ea0865c5fe6c.jpg",
+    "mk": "задолжително запирање",
+    "en": "Mandatory stop",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4458",
+    "image": "/signs/25f5156e-c535-40a3-b49f-826f62c41f1e.jpg",
+    "mk": "патоказ за обиколување",
+    "en": "Diversion direction sign",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4460",
+    "image": "/signs/f7e1aec7-01e0-4527-91a7-ebf9917baa24.jpg",
+    "mk": "ознаки на коловозот",
+    "en": "Carriageway markings",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4462",
+    "image": "/signs/e3c1278c-e1e8-4898-a407-ca573f23b6ce.jpg",
+    "mk": "вкрстосување со кружен тек на сообраќајот",
+    "en": "Intersection with a roundabout",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4464",
+    "image": "/signs/6e9b2952-ab2d-488f-af60-042384d7807c.jpg",
+    "mk": "предзнак за обиколување",
+    "en": "Advance direction for a diversion",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4466",
+    "image": "/signs/0bd0b93b-95f1-485d-a913-9f13c25993e5.jpg",
+    "mk": "завршеток на велосипедската патека",
+    "en": "End of cycle track",
+    "questionId": 82,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4470",
+    "image": "/signs/3cfb881e-eaa2-4402-a03c-146536c48758.jpg",
+    "mk": "кривина надесно",
+    "en": "Bend to the right",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4472",
+    "image": "/signs/b652e296-567f-4021-b776-d7c99f3bd989.jpg",
+    "mk": "првенство на минување за возила од спротивна насока",
+    "en": "Give way to oncoming vehicles",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4474",
+    "image": "/signs/09eb4923-c631-4d96-bbe6-504ba3b23bb7.jpg",
+    "mk": "деца на патот",
+    "en": "Children on the road",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4476",
+    "image": "/signs/9428c09e-7dba-4897-a852-83432148c5a6.jpg",
+    "mk": "двојна кривина или повеќе кривини едноподруго од кои првата е надесно",
+    "en": "Double bend or successive bends, first to the right",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4478",
+    "image": "/signs/86be84d3-8635-4c90-9d09-b1f9824c1722.jpg",
+    "mk": "престанување на забраната за престигнување на товарни возила",
+    "en": "End of no-overtaking for goods vehicles",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4480",
+    "image": "/signs/09ba337a-393f-4e98-b03f-62125ec8c2f0.jpg",
+    "mk": "дополнителната табла содржи симболи кои поблиску го одредуваат значењето на знакот кон кој се поставуваат",
+    "en": "The additional plate has symbols that specify the meaning of the sign it is attached to",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4482",
+    "image": "/signs/7429d2e0-ce31-429a-aa33-dba47eac085c.jpg",
+    "mk": "забрана на сообраќајот за моторцикли",
+    "en": "No motorcycles",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4484",
+    "image": "/signs/85be86ca-d662-47f9-9280-a539f8b02fd3.jpg",
+    "mk": "број на автопат",
+    "en": "Motorway number",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4486",
+    "image": "/signs/0388e518-4cad-4804-ad71-193a89ecbbb0.jpg",
+    "mk": "ознаки на коловозот",
+    "en": "Carriageway markings",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4488",
+    "image": "/signs/be7a7497-ca3e-4256-b680-75aa0131a58b.jpg",
+    "mk": "приближување кон премин на патот преку железничка пруга со браници или полубраници",
+    "en": "Approaching a level crossing with barriers or half-barriers",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4490",
+    "image": "/signs/61c1ee81-4f44-4613-aa43-fd90e6afd6da.jpg",
+    "mk": "информација",
+    "en": "Information",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4492",
+    "image": "/signs/d5bf36ba-5d87-4587-abae-5c1f7bc3f852.jpg",
+    "mk": "пат со првенство на минување",
+    "en": "Priority road",
+    "questionId": 83,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4496",
+    "image": "/signs/2dad5aff-e636-4375-95e6-55d35f27cec0.jpg",
+    "mk": "кривина налево",
+    "en": "Bend to the left",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4498",
+    "image": "/signs/5702fb5f-f2e7-42cc-a2ab-df341d1c3ed9.jpg",
+    "mk": "забрана за сообраќај во двете насоки",
+    "en": "No traffic in either direction",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4500",
+    "image": "/signs/78c2e27c-1e1c-4a08-9688-6301b7d457df.jpg",
+    "mk": "престанување за најмала дозволена брзина",
+    "en": "End of minimum-speed restriction",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4502",
+    "image": "/signs/3ff2ad61-da44-45a4-935e-c8e5da28b97b.jpg",
+    "mk": "спојување со спореден пат под остар агол од десна страна",
+    "en": "Side road joining at an acute angle from the right",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4504",
+    "image": "/signs/d5669abf-5073-4bb5-82f4-1a8c79d6324b.jpg",
+    "mk": "подземен или надземен пешачки премин",
+    "en": "Underpass or footbridge",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4506",
+    "image": "/signs/41304891-d7ee-49e7-a494-a1624fcb6cb6.jpg",
+    "mk": "дополнителната табла означува време за кое важи изречната наредба, ако таа не важи непрекинато",
+    "en": "The additional plate shows the hours the order applies, if it is not continuous",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4508",
+    "image": "/signs/018b49a3-e510-4587-8c8d-cf18c18bb078.jpg",
+    "mk": "забрана за сообраќајот за сите возила на моторен погон освен за моторцикли без приколка и мопеди",
+    "en": "No motor vehicles except motorcycles without sidecar and mopeds",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4510",
+    "image": "/signs/cdde4248-d969-452d-aa10-f64615b27081.jpg",
+    "mk": "предзнак за рачно регулирање на сообраќајот",
+    "en": "Advance warning of manual traffic control",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4512",
+    "image": "/signs/5acfdbef-55b9-41ef-9904-1f890469f080.jpg",
+    "mk": "ознаки на коловозот",
+    "en": "Carriageway markings",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4514",
+    "image": "/signs/30101443-5417-44ee-bb46-d914485ad986.jpg",
+    "mk": "Андреин крст (еден колосек)",
+    "en": "St. Andrew's cross (single track)",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4516",
+    "image": "/signs/524a4ba5-f312-4e17-9499-6365966cf8e2.jpg",
+    "mk": "планинарски дом",
+    "en": "Mountain hut",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4518",
+    "image": "/signs/0cf0b011-8268-4f3d-8948-fe466e280710.jpg",
+    "mk": "пешачка зона",
+    "en": "Pedestrian zone",
+    "questionId": 84,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4340",
+    "image": "/signs/3ca207d2-94db-48f9-8a3d-b00619e8d917.jpg",
+    "mk": "спојување со спореден пат под прав агол од десна страна",
+    "en": "Side road joining at a right angle from the right",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4342",
+    "image": "/signs/f08087ff-77a1-4730-85db-444f3f70aa06.jpg",
+    "mk": "забрана на сообраќајот за возила што превезуваат експлозив или некои запалливи материи",
+    "en": "No vehicles carrying explosives or flammable materials",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4344",
+    "image": "/signs/99d492e1-bd3f-4d38-b889-20000c96e12a.jpg",
+    "mk": "престанување на забраната за престигнување на сите возила на моторен погон освен на мопеди",
+    "en": "End of no-overtaking of motor vehicles except mopeds",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4346",
+    "image": "/signs/cadcb262-001a-46b9-a82b-340bb228df3f.jpg",
+    "mk": "спојување на два пата со еднонасочен сообраќај во пат со двонасочен сообраќај",
+    "en": "Two one-way roads joining into a two-way road",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4348",
+    "image": "/signs/22af87b9-6a31-48d9-87d6-6a05c07b0b05.jpg",
+    "mk": "работилница за поправка на возила",
+    "en": "Vehicle repair workshop",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4350",
+    "image": "/signs/c5b94e98-31ef-46dc-ae3e-27e3cecfd578.jpg",
+    "mk": "дополнителната табла означува место на кое паркирањето е резервирано за возила на инвалиди или близина на пат на кој може да се појави инвалидизирано лице во количка",
+    "en": "The additional plate marks parking reserved for disabled vehicles, or a nearby road where a wheelchair user may appear",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4352",
+    "image": "/signs/f9b27b94-20b1-478b-9bb5-11bef221b86c.jpg",
+    "mk": "забрана за полукружно свртување",
+    "en": "No U-turn",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4354",
+    "image": "/signs/6bf41527-6717-4580-ac8b-0cb84828d80c.jpg",
+    "mk": "угасни го моторот",
+    "en": "Switch off the engine",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4356",
+    "image": "/signs/c7bd90d1-2089-4eff-b949-2bf469de5be5.jpg",
+    "mk": "ознаки на коловозот",
+    "en": "Carriageway markings",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4358",
+    "image": "/signs/f41b59b6-c59f-4ed3-aef5-f70ccc63ed19.jpg",
+    "mk": "неутврдена банкина",
+    "en": "Unpaved shoulder",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4360",
+    "image": "/signs/48442a98-4b92-4207-ad2b-5d438513fafd.jpg",
+    "mk": "хотел или мотел",
+    "en": "Hotel or motel",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4362",
+    "image": "/signs/7aa58fb2-caa8-46a6-ada9-64a519fea380.jpg",
+    "mk": "престанување на обврската за употреба на зимска опрема",
+    "en": "End of winter-equipment requirement",
+    "questionId": 85,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4314",
+    "image": "/signs/cc7c121b-10a6-479f-bf3a-7ab1e60e1d0e.jpg",
+    "mk": "одронување на камења од десна страна",
+    "en": "Falling rocks from the right",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4316",
+    "image": "/signs/824e1668-2a72-4323-a48f-e06d9407d3fe.jpg",
+    "mk": "забрана на сообраќајот за возила што превезуваат опасни материи",
+    "en": "No vehicles carrying dangerous goods",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4318",
+    "image": "/signs/8d067374-aa4f-4f86-ba44-f12274d19fe6.jpg",
+    "mk": "терен за кампување во возила",
+    "en": "Motorhome / campervan site",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4320",
+    "image": "/signs/5ac88730-ff47-4a66-9d1c-9c3fd53acab9.jpg",
+    "mk": "деца на патот",
+    "en": "Children on the road",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4322",
+    "image": "/signs/35988b7d-cab0-4fe6-9080-1304d625b8d3.jpg",
+    "mk": "работилница за поправка на возила",
+    "en": "Vehicle repair workshop",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4324",
+    "image": "/signs/4810ac4c-ff2e-4352-85db-c28dee13ac03.jpg",
+    "mk": "дополнителната табла означува место на кое паркирањето е резервирано за возила на инвалиди или близина на пат на кој може да се појави инвалидизирано лице во количка",
+    "en": "The additional plate marks parking reserved for disabled vehicles, or a nearby road where a wheelchair user may appear",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4326",
+    "image": "/signs/a3524752-aa84-4ed6-bb6e-f1652d51c3d8.jpg",
+    "mk": "забрана за полукружно свртување",
+    "en": "No U-turn",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4328",
+    "image": "/signs/3456339a-86d0-4829-b72e-5450b04b6d1b.jpg",
+    "mk": "ресторан",
+    "en": "Restaurant",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4330",
+    "image": "/signs/c58b7a94-7df8-4ff4-acb5-af5c270944d0.jpg",
+    "mk": "ознаки на коловозот",
+    "en": "Carriageway markings",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4332",
+    "image": "/signs/d40f4708-8042-496c-95e2-b47caa710e9b.jpg",
+    "mk": "тунел (галерија)",
+    "en": "Tunnel (gallery)",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4334",
+    "image": "/signs/23d4b8f4-a7d8-4f8d-8d65-eef80b30d161.jpg",
+    "mk": "хотел или мотел",
+    "en": "Hotel or motel",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4336",
+    "image": "/signs/d81392f4-b2e7-4d82-9cd0-11a3fba512b2.jpg",
+    "mk": "завршеток на пешачката патека",
+    "en": "End of footpath",
+    "questionId": 86,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4288",
+    "image": "/signs/f0856c67-bdc8-4590-93b7-d451b79975cf.jpg",
+    "mk": "наидување на сообраќајни светлосни знаци",
+    "en": "Approaching traffic lights",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4290",
+    "image": "/signs/d679d8d2-cc4f-401d-a41f-85c6a1c0fd30.jpg",
+    "mk": "забрана за престигнување на сите возила на моторен погон, освен на моторцикли без приколка и мопеди",
+    "en": "No overtaking of motor vehicles except motorcycles without sidecar and mopeds",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4292",
+    "image": "/signs/e21becf7-8a8c-4b11-b552-f3502de9463d.jpg",
+    "mk": "брзина што се препорачува",
+    "en": "Recommended speed",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4294",
+    "image": "/signs/88281f88-c340-4e72-81ea-d9fa6dad4eb6.jpg",
+    "mk": "премин на патот преку железничка пруга со браници или полубраници",
+    "en": "Level crossing with barriers or half-barriers",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4296",
+    "image": "/signs/13308415-4cb2-47b5-8249-a22fcbf426c2.jpg",
+    "mk": "бензиска станица",
+    "en": "Petrol station",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4298",
+    "image": "/signs/4a2ba722-1306-4605-ae81-7f8a8f32c99e.jpg",
+    "mk": "дополнителната табла означува положба при паркирање на возила",
+    "en": "The additional plate shows how vehicles should be parked",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4300",
+    "image": "/signs/1d7e6891-9cfa-485a-a57e-4bd89766e21a.jpg",
+    "mk": "забрана за паркирање",
+    "en": "No parking",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4302",
+    "image": "/signs/1220ab44-7dd2-43a1-a0ee-5bfa53e127ad.jpg",
+    "mk": "WC",
+    "en": "WC",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4304",
+    "image": "/signs/c50f3973-12f1-40db-bb45-aaf2e5587fab.jpg",
+    "mk": "ознаки на коловозот",
+    "en": "Carriageway markings",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4306",
+    "image": "/signs/c701fe8b-7f3e-4f6b-9690-af7a38510b1f.jpg",
+    "mk": "Андреин крст (два и повеќе колосеци)",
+    "en": "St. Andrew's cross (two or more tracks)",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4308",
+    "image": "/signs/13b0b0e9-1779-485a-865c-4e787cc44da5.jpg",
+    "mk": "подрачје на смирен сообраќај",
+    "en": "Traffic-calming zone",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4310",
+    "image": "/signs/41e3d935-a248-4515-9109-0a28f56ca5c0.jpg",
+    "mk": "завршеток на зоната во која е ограничена брзината",
+    "en": "End of speed-limit zone",
+    "questionId": 87,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4262",
+    "image": "/signs/d9f4ca1a-afdf-4c71-831e-6f05497918a6.jpg",
+    "mk": "опасност од мраз",
+    "en": "Danger of ice",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4264",
+    "image": "/signs/8d2784b8-c7d1-43f8-94db-6636a51fb908.jpg",
+    "mk": "задолжителна насока",
+    "en": "Mandatory direction",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4266",
+    "image": "/signs/ba820191-82c6-4961-aae1-150b373b426e.jpg",
+    "mk": "паркиралиште",
+    "en": "Car park",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4268",
+    "image": "/signs/7c6ecda2-39b3-4cce-becc-1de4a8142bfe.jpg",
+    "mk": "трамвајска пруга",
+    "en": "Tramway",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4270",
+    "image": "/signs/56cc97cd-bdc6-4c29-a1a3-fc23e4717b21.jpg",
+    "mk": "кружен тек на сообраќајот",
+    "en": "Roundabout",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4272",
+    "image": "/signs/c1b3d540-745b-4d03-a4c8-778c3bfb43b7.jpg",
+    "mk": "дополнителната табла означува положба при паркирање на возила",
+    "en": "The additional plate shows how vehicles should be parked",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4274",
+    "image": "/signs/f76d7444-7264-49e1-91d4-c1e067f5f84e.jpg",
+    "mk": "наизменично паркирање (непарни денови)",
+    "en": "Alternate parking (odd days)",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4276",
+    "image": "/signs/3eb5479e-e566-413d-8467-6eb15dcc000c.jpg",
+    "mk": "TAXI",
+    "en": "Taxi",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4278",
+    "image": "/signs/726e42c1-2749-4bba-bfa8-4469cd1ddccf.jpg",
+    "mk": "дополнителна светлечка стрелка",
+    "en": "Additional illuminated arrow",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4280",
+    "image": "/signs/8fe541b5-e789-4a51-b929-f5353d8968f4.jpg",
+    "mk": "работи на патот",
+    "en": "Roadworks",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4282",
+    "image": "/signs/f6cff7d5-0c81-43a2-aae2-e85f72c2ab73.jpg",
+    "mk": "завршеток на подрачјето на смирен сообраќај",
+    "en": "End of traffic-calming zone",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4284",
+    "image": "/signs/31e8bebc-d875-43a7-a1a2-c22c5eb25f87.jpg",
+    "mk": "гаража",
+    "en": "Garage",
+    "questionId": 88,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4236",
+    "image": "/signs/8f944ef0-6f63-4ee8-af49-55ec9ba137e4.jpg",
+    "mk": "пешаци на патот",
+    "en": "Pedestrians on the road",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4238",
+    "image": "/signs/657cd059-911f-4366-bf0d-7b9c2b743fd1.jpg",
+    "mk": "дозволени насоки",
+    "en": "Permitted directions",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4240",
+    "image": "/signs/e5ac3c3b-873a-4601-89a8-44cfb42930b3.jpg",
+    "mk": "престанок на препорачаната брзина",
+    "en": "End of recommended speed",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4242",
+    "image": "/signs/940e436a-84d2-4a35-8bf5-ad530ee65e97.jpg",
+    "mk": "велосипедисти на патот",
+    "en": "Cyclists on the road",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4244",
+    "image": "/signs/ad2883b9-5037-46f6-bfc9-87c8ec5a6b4f.jpg",
+    "mk": "забрана на сообраќајот за велосипеди",
+    "en": "No bicycles",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4246",
+    "image": "/signs/abb57ddf-0897-4d69-b852-431807fe967c.jpg",
+    "mk": "дополнителната табла содржи поблиско објаснение на знакот со зборови или на друг начин, ако тоа не е јасно определено со симболот на знакот",
+    "en": "The additional plate explains the sign in words or another way if the symbol is not clear enough",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4248",
+    "image": "/signs/1730b6f4-faa7-4224-84d9-13e4c928ab73.jpg",
+    "mk": "забрана на сообраќајот за сите возила на моторен погон",
+    "en": "No motor vehicles",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4250",
+    "image": "/signs/971d25bb-566d-417b-9e24-a41235f77a6d.jpg",
+    "mk": "назив на населено место",
+    "en": "Built-up area name",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4252",
+    "image": "/signs/fa99fc61-e117-476d-9a08-a86a5edbae6c.jpg",
+    "mk": "слободно минување на трамвај во насока право",
+    "en": "Tram may proceed straight ahead",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4254",
+    "image": "/signs/92aacccb-6171-45ff-96f7-91c095b7f1c6.jpg",
+    "mk": "сообраќај во две насоки",
+    "en": "Two-way traffic",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4256",
+    "image": "/signs/c9307a51-7de5-4082-9657-c6de06688ffe.jpg",
+    "mk": "завршеток на зоната во која е ограничено времетраењето на паркирање",
+    "en": "End of time-limited parking zone",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4258",
+    "image": "/signs/fdd7074d-6c3f-4d97-acd8-1d56cdfa91d3.jpg",
+    "mk": "телефон",
+    "en": "Telephone",
+    "questionId": 89,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4158",
+    "image": "/signs/f1cff49d-5533-4bd2-aee2-e4839acfdc86.jpg",
+    "mk": "стеснување на патот",
+    "en": "Road narrows",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4160",
+    "image": "/signs/a43f3b56-06b9-4969-a0e9-c36efdbcf2d8.jpg",
+    "mk": "патека за велосипедисти",
+    "en": "Cycle track",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4162",
+    "image": "/signs/bbae6f83-edf9-44c4-a988-411142fde8af.jpg",
+    "mk": "временско ограничување на паркирањето",
+    "en": "Time-limited parking",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4164",
+    "image": "/signs/751e61ff-0488-4f84-a911-3480fc2548a0.jpg",
+    "mk": "спојување со спореден пат под остар агол од лева страна",
+    "en": "Side road joining at an acute angle from the left",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4166",
+    "image": "/signs/69015f7d-afc8-4dc9-8f1f-377505c250ac.jpg",
+    "mk": "забрана на сообраќајот за пешаци",
+    "en": "No pedestrians",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4168",
+    "image": "/signs/8110e2c2-7d35-468e-93ac-9d1245f8e1f8.jpg",
+    "mk": "дополнителнатата табла означува место на патот каде што се наоѓа опрема за смирување на сообраќајот (издадености)",
+    "en": "The additional plate marks traffic-calming devices (humps) on the road",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4170",
+    "image": "/signs/7df2d4e9-5a20-49cf-affb-853f46d4635d.jpg",
+    "mk": "забрана на сообраќајот за возила чија вкупна широчина ја преминува определената широчина",
+    "en": "No vehicles over the indicated width",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4172",
+    "image": "/signs/e9cd5ddb-721d-44fc-b040-47388c181a34.jpg",
+    "mk": "патоказ",
+    "en": "Direction sign",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4174",
+    "image": "/signs/feb302ad-c411-4f25-851f-c1f3760ae4cf.jpg",
+    "mk": "прекрстени линии со црвена боја",
+    "en": "Crossed red lines",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4176",
+    "image": "/signs/824c1983-a630-44b7-bac9-72446166d530.jpg",
+    "mk": "близина на автобуска станица",
+    "en": "Nearby bus station",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4178",
+    "image": "/signs/3bf0da77-521a-44ac-92e9-549630bf5a2d.jpg",
+    "mk": "завршеток на автопат",
+    "en": "End of motorway",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  },
+  {
+    "id": "4180",
+    "image": "/signs/29bf8360-2eee-410b-ac8b-1eaceebf6c1b.jpg",
+    "mk": "аеродром",
+    "en": "Airport",
+    "questionId": 90,
+    "categories": "М,Ф,Г"
+  }
+]
